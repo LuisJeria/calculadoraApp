@@ -3,4 +3,7 @@
     <string name="mensaje">Hola Mundo</string>
     <string name="mensaje2">Hola Lucho</string>
     <string name="saludar_btn">Saludar</string>
+    <string name="numero_1_txt">Numero 1</string>
+    <string name="numero_2_txt">Numero 2</string>
+    <string name="ingrese_un_numero_txt">Ingrese un numero</string>
 </resources>
